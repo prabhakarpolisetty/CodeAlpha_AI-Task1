@@ -1,0 +1,6 @@
+{
+  "name": "SmartLang AI",
+  "description": "A powerful language translation tool powered by Gemini AI, featuring real-time translation, text-to-speech, and a polished user interface.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
